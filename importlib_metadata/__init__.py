@@ -588,4 +588,4 @@ def requires(distribution_name):
     return distribution(distribution_name).requires
 
 
-__version__ = version(__name__)
+__version__ = "1.5.0"
